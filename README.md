@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for new role <br>🤝 I’m looking for help with AI<br>🌱 I’m currently learning - How to become Middle Frontend Engineer<br>⚡ Fun fact - I like cat<br><br>I'm a seasoned Frontend Developer with three years of experience, specializing in JavaScript and TypeScript.<br>I love transforming ideas into interactive digital realities. My journey has equipped <br>me with the skills to create user-friendly web applications that seamlessly blend design with functionality.
+🔭 I’m currently looking for new role <br>🤝 I’m looking for help with AI<br>🌱 I’m currently learning - How to become Senior Frontend Engineer<br>⚡ Fun fact - I like cat<br><br>I'm a seasoned Frontend Developer with three years of experience, specializing in JavaScript and TypeScript.<br>I love transforming ideas into interactive digital realities. My journey has equipped <br>me with the skills to create user-friendly web applications that seamlessly blend design with functionality.
 
 
 # 💻 Tech Stack:
